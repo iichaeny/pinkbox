@@ -1,5 +1,3 @@
-
-<!doctype html>
 <meta charset="utf-8">
 <body>
 	<div id="myRect" style="width: 100px;height: 100px;background: pink;
